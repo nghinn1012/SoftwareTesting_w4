@@ -6,4 +6,5 @@ Trình độ của một lập trình viên IT được đánh giá dựa trên 
 - Số năm kinh nghiệm <= 1: Intern
 - Còn lại: Chưa rõ xếp loại
 ### Test case
-Tuần 4 có các test mang tên test1 -> test6 trong file MainTest.java
+Tuần 4 có các test mang tên w4_test1 -> w4_test6 trong file MainTest.java
+Tuần 4 có các test mang tên w5_test1 -> w5_test6 trong file MainTest.java
